@@ -1,7 +1,18 @@
-# HTML5 Development
+# UI Development
 
-Download the HTMLStarter Template
+Download the Course Content from Here
 
-Extract it and load it to your Editor
+Course Highlights:
 
-These are just starter files , just follow my classes for complete HTML files.
+1) Please note we are going to develop 6 Mini Projects and 3 Major Projects with live coding in this entire course.
+2) Laptops are mandatory for attending this course.
+3) Each Technology will be covered from Zero to Hero strategy.
+4) Each Technology is perfectly organized with Starter Template and Completed Template.
+5) Real Time Oriented Course Structure.
+6) Complete Source code will be provided to you time to time after completion of each technology.
+
+Thanks for your interest in learning and Development of UI Technologies.
+
+Yours,
+NAVEEN SAGGAM
+
