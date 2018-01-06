@@ -11,7 +11,13 @@ Course Highlights:
 5) Real Time Oriented Course Structure.
 6) Complete Source code will be provided to you time to time after completion of each technology.
 
-Thanks for your interest in learning and Development of UI Technologies.
+Thanks for your interest in learning UI Technologies.
+
+Please "Sign Up" to Github and Click on "Follow" Button (below my Profile) for latest updates.
+
+Stay Connected.
+
+Happy Learning :)
 
 Yours,
 NAVEEN SAGGAM
