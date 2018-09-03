@@ -1,0 +1,150 @@
+Technology Stack for Full Stack Web Developer (3+)
+----------------------------------------------------
+
+UI Technologies
+----------------
+HTML -> for structuring of the webpage
+CSS  -> for presentation of the webpage
+JavaScript -> for producing Dynamic content using DOM Manipulation
+JQuery -> Library of JavaScript for dynamic data like JS
+AJAX -> for Asyncronous calls with server
+Bootstrap -> for Responsiveness and Mobile friendly applications
+TypeScript -> a superset of JavaScript with fully Object oriented
+Angular JS / Angular -> for MVC architecture and two way data binding.
+ 
+Serverside Technologies
+------------------------
+Node JS -> for serverside JavaScript for serverside processing
+Express JS -> Library of Node JS for serverside processing
+
+Databases
+---------
+Mongo DB -> for No-SQL database
+Fire Base -> cloud based No-SQL database
+MySQL -> Relational Database
+
+Testing Frameworks
+------------------
+Mocha -> for Unit Testing
+Sinon -> for Unit Testing
+Jasmine -> for Unit Testing
+Karma -> for Unit Testing
+Protractor -> for Integration Testing
+
+Code Coverage Tools
+-------------------
+Istanbul -> for code coverage
+
+Build Tools
+-----------
+Git  / Gulp -> for building the application
+
+Live Reload of Code
+------------------
+Editors integrated live reload
+live-server
+live-reload
+
+Code Editors
+-------------
+Sublime Text -> Sublime
+Visual Studio Code -> Microsoft
+Brackets -> Adobe Systems
+Atom -> Github
+Webstorm -> JetBrains
+Dreamweaver -> Adobe Systems
+
+Code Repositories
+-----------------
+CVS / SVN
+Github Enterprise
+IBM Clear Case
+
+Graphs & Charts
+---------------
+D3.js
+C3.js
+
+Optional Technologies
+----------------------
+React JS
+Ember JS
+BackBone JS
+Vue JS
+Ext JS
+Photoshop skills
+
+Development Methodology
+-----------------------
+Agile Methodology
+		-> Scrum Model
+		
+Project / Task Updates
+----------------------
+JIRA website
+Daily Standup meetings
+
+
+
+
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
