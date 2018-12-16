@@ -22,3 +22,15 @@ Happy Learning :)
 Yours,
 NAVEEN SAGGAM
 
+# WebStorm OLD Link
+
+https://drive.google.com/open?id=1fHRs_sz5iD-RkrtUkxxhngJ5J5dEVske
+
+# Typing Master Link
+
+https://drive.google.com/open?id=1FVazx8mKqXOenjlEnBkIveJpQh2rRCPf
+
+# WebStorm New Link
+
+https://drive.google.com/open?id=1YvYtUIjrh6r-xMcmBF6X3_Ova-NQIOFd
+
