@@ -1,0 +1,153 @@
+Installation of Notepad++
+--------------------------
+-> goto "google" -> type " notepad++"
+
+-> goto "https://notepad-plus-plus.org/"
+
+-> click on "download" button
+
+-> select the download options like (32 bit / 64 bit)
+
+-> Click on the "installer" link 
+
+-> it downloads a '.exe' file
+
+-> double click on the downloaded file
+
+-> proceed with default installation.
+
+Installation of Node JS
+-----------------------
+
+-> Goto "Google" -> type 'node js"
+
+-> goto "https://nodejs.org/en/"
+
+-> click on "10.15.1" green button
+
+-> it downloads a '.msi' file
+
+-> double click on '.msi' file
+
+-> proceed with the default installation.
+
+Verification of Node Js Installation
+------------------------------------
+-> goto "command prompt"
+
+-> type 'node -v' to get the version of Node JS
+
+-> once you get the version, it is installed successfully
+
+-> type 'npm -v' to get version of NPM
+
+-> once you get the version, it is installed successfully
+
+-> Now you can install 'live server'
+
+Installation of Live Server
+---------------------------
+-> go to "Command Prompt" 
+
+-> type 'npm install -g live-server" (with internet connection)
+
+-> Once it is installed, we can check the version of it by using
+
+	'live-server -v'
+
+-> here we get the version as 'live-server 1.2.1'
+
+WebStorm IDE Installation 
+---------------------------
+
+-> Double Click on 'WebStorm.2018.1.4' 
+
+-> Click on Next , Click Next
+
+-> Select the '64Bit' / '32bit' 
+
+-> Select Associations for HTML , CSS , JavaScript
+
+-> Check the 'Download JRE' If exists
+
+-> Click on Next
+
+-> Click on Install.
+
+Once installation is done , click on 'run webstorm' and click on finish.
+
+-> Do not import Settings => Ok
+-> Close the Activation licence window.
+
+Step 2:
+-------
+copy the jar file (JetbrainsCrack-3.1.jar) to the below folder
+"C:\Program Files\JetBrains\WebStorm 2018.1.4\bin"
+
+Step 3:
+-------
+Select the file '.VMOPTIONS' and change the permissions.
+in the 'bin' folder.
+
+	-> Select 'webstorm64.exe.vmoptions' => right click
+	-> click on 'properties' -> Click on 'security'
+	-> Select the 'users' => Click 'Edit'
+	-> Select 'Users' => check all 'Allow' options.
+	-> Click on 'Apply' -> CLick on OK -> Click on OK.
+	
+-> Open the '.VMOPTIONS' file in notepad and add the following line,
+--------------------------------------------------------
+-javaagent:C:/Program Files/JetBrains/WebStorm 2018.1.4/bin/JetbrainsCrack-3.1-release-enc.jar
+--------------------------------------------------------
+
+Step 4:
+--------
+> Open the 'licence' in notepad and copy it.
+-> Open the WebStorm IDE -> Select Activation ->
+-> Enter the Licence -> Click on OK.
+-> Now the Activation is successful.
+
+-> Click on 'Create New Project' -> Click on 'Create'
+
+Download Source for the HTML Developemnt
+-----------------------------------------
+-> go to "google"
+
+-> type "naveen saggam"
+
+-> go to "https://github.com/thenaveensaggam"
+
+-> click on "HTML_Template"
+
+-> Click on "Clone or Download" green color button
+
+-> it downloads a '.zip' file
+
+-> Extract the zip file
+
+-> Open the webstorm IDE
+
+-> click on file -> Open -> Paste the URL of the folder
+-> Click OK.
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
