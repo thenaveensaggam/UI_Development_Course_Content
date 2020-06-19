@@ -22,15 +22,9 @@ Happy Learning :)
 Yours,
 NAVEEN SAGGAM
 
-# WebStorm 2018 Link
-
-https://drive.google.com/open?id=1YvYtUIjrh6r-xMcmBF6X3_Ova-NQIOFd
-
 # WebStorm 2019 Link
-https://drive.google.com/open?id=1PnM_GuqnfFX5D00mm58miF94O3kW5u86
+https://drive.google.com/file/d/1PZwH8AYdHI5d7Q8IvX_u_DwPceJxrhZz/view?usp=sharing
 
 # UiBrains Online Telegram Link
 https://t.me/joinchat/H3ErURUNJ1luBk7nOwPBdA
 
-# Softwave IT UI Telegram
-https://t.me/joinchat/H3ErURCo2cvave6IC-pJKA
