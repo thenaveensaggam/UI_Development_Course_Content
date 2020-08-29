@@ -23,7 +23,7 @@ Yours,
 NAVEEN SAGGAM
 
 # WebStorm 2019 Link
-https://drive.google.com/file/d/1PZwH8AYdHI5d7Q8IvX_u_DwPceJxrhZz/view?usp=sharing
+https://drive.google.com/file/d/1PZwH8AYdHI5d7Q8IvX_u_DwPceJxrhZz/view
 
 # UiBrains Online Telegram Link
 https://t.me/joinchat/H3ErURUNJ1luBk7nOwPBdA
