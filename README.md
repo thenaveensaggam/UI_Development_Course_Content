@@ -23,10 +23,7 @@ Yours,
 NAVEEN SAGGAM
 
 # Webstorm 2020.1 Link (Working)
-https://drive.google.com/file/d/1zv77ZFRGsXbvy9e_4_CtkGQxkT2_v8Oj/view?usp=sharing
-
-# WebStorm 2019 Link
-https://drive.google.com/file/d/1PZwH8AYdHI5d7Q8IvX_u_DwPceJxrhZz/view
+https://drive.google.com/file/d/1reu_eOQC_x72s78hBo0Y3NlQ0tuA39dk/view?usp=sharing
 
 # UiBrains Online Telegram Link
 https://t.me/joinchat/H3ErURUNJ1luBk7nOwPBdA
